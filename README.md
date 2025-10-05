@@ -45,7 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=prasonkc&show_icons=true&theme=tokyonight&count_private=true" alt="prasonkc stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasonkc&theme=dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prasonkc&theme=tokyonight" alt="prasonkc streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasonkc&layout=compact&theme=tokyonight" alt="top languages" />
