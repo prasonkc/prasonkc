@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prason Kc</h1>
+<h1 align="center">Hi 👋, I'm Prason</h1>
 <h3 align="center">I code stupid projects… and sometimes they actually work</h3>
 
 <p align="center">
