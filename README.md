@@ -15,7 +15,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/prason-kc-6782061b6/" target="_blank">LinkedIn</a> • 
   <a href="https://x.com/KcPrason" target="_blank">Twitter</a> • 
-  <a href="https://www.instagram.com/prasonkc.1/" target="_blank">Instagram</a>
+  <a href="https://www.instagram.com/prasonkc/" target="_blank">Instagram</a>
 </p>
 
 <h3 align="left">🛠 Languages & Tools:</h3>
